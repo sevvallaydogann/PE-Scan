@@ -69,18 +69,18 @@ python train_model.py
 ```text
 PEScan/
 │
-├── data/                 # Dataset folder
-├── images/               # Screenshots & Graphs
-│   ├── gui_demo.png      # GUI Screenshot
-│   ├── demo_scan.png     # CLI Screenshot
+├── data/                
+├── images/              
+│   ├── gui_demo.png     
+│   ├── demo_scan.png     
 │   ├── confusion_matrix.png
 │   └── feature_importance.png
-├── pescan_model.pkl      # Trained AI Brain
-├── gui.py                # Graphical User Interface
-├── scan.py               # CLI Scanner Tool
-├── train_model.py        # Training & Visualization Script
-├── requirements.txt      # Dependencies
-└── README.md             # Documentation
+├── pescan_model.pkl      
+├── gui.py               
+├── scan.py               
+├── train_model.py        
+├── requirements.txt     
+└── README.md             
 ```
 
 ## Disclaimer
