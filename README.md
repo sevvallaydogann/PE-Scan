@@ -49,7 +49,7 @@ Accuracy with data visualization:
 
 ## Usage
 
-### Option 1: Graphic Interface (GUI) 🖥️
+### Option 1: Graphic Interface (GUI) 
 Run the modern dashboard:
 ```bash
 python gui.py
