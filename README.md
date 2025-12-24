@@ -34,8 +34,8 @@ Accuracy with data visualization:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/PEScan.git](https://github.com/YOUR_USERNAME/PEScan.git)
-    cd PEScan
+    git clone https://github.com/sevvallaydogann/PE-Scan.git
+    cd PE-Scan
     ```
 
 2.  **Install dependencies:**
