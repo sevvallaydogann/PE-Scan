@@ -25,10 +25,10 @@ Accuracy with data visualization:
 
 ## Key Features
 
-* ** AI-Driven Detection:** Uses a trained **Random Forest Classifier** on 19,000+ samples.
-* ** Modern GUI:** A dark-themed, hacker-style interface built with `CustomTkinter`.
-* ** Static Analysis:** Extracts features safely without executing the file.
-* ** High Accuracy:** Achieved **99.24% accuracy** on the test dataset.
+*  AI-Driven Detection: Uses a trained **Random Forest Classifier** on 19,000+ samples.
+*  Modern GUI: A dark-themed, hacker-style interface built with `CustomTkinter`.
+*  Static Analysis: Extracts features safely without executing the file.
+*  High Accuracy: Achieved **99.24% accuracy** on the test dataset.
 
 ## Installation
 
