@@ -60,7 +60,7 @@ python gui.py
 python scan.py
 ```
 
-## Model Training
+### Model Training
 ```bash
 python train_model.py
 ```
